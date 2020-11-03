@@ -6,7 +6,7 @@ using System.Text;
 
 namespace SharedLibrary.GeneralUse.MySqlTool
 {
-    class MySqlWriter
+    public class MySqlWriter
     {
         MySqlConnection Connection;
         MySqlCommand Command;

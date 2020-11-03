@@ -10,7 +10,7 @@ namespace SharedLibrary.GeneralUse.MySqlTool
 {
 
 
-    class MySqlReader
+    public class MySqlReader
     {
         MySqlConnection Connection;
         MySqlCommand Command;
