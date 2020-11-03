@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.ChartJsTool", "AspNetCore.ChartJsTool\AspNetCore.ChartJsTool.csproj", "{BE7418E4-3DA2-4995-84B5-073B0A34B66F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore.Instalers", "AspNetCore.Instalers\AspNetCore.Instalers.csproj", "{8FAF1B9A-0BAE-4FC0-9942-84D86066A44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralUse.MySqlTool", "GeneralUse.MySqlTool\GeneralUse.MySqlTool.csproj", "{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7418E4-3DA2-4995-84B5-073B0A34B66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7418E4-3DA2-4995-84B5-073B0A34B66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7418E4-3DA2-4995-84B5-073B0A34B66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7418E4-3DA2-4995-84B5-073B0A34B66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAF1B9A-0BAE-4FC0-9942-84D86066A44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAF1B9A-0BAE-4FC0-9942-84D86066A44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAF1B9A-0BAE-4FC0-9942-84D86066A44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAF1B9A-0BAE-4FC0-9942-84D86066A44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFD1488-F0A2-4945-BECA-FF4A41A88BE6}
+	EndGlobalSection
+EndGlobal
