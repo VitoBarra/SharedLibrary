@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore.Instalers", "Asp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralUse.MySqlTool", "GeneralUse.MySqlTool\GeneralUse.MySqlTool.csproj", "{19544C63-CFDC-4B85-A4D5-18C0F0AD5B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Singleton", "Unity.Singleton\Unity.Singleton.csproj", "{025961A1-A353-4ACF-8181-70A8557FCEBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity.Singleton", "Unity.Singleton\Unity.Singleton.csproj", "{025961A1-A353-4ACF-8181-70A8557FCEBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralUse.RestService", "GeneralUse.RestService\GeneralUse.RestService.csproj", "{AE878E97-88C2-4D2C-BC45-9E98C108625C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{025961A1-A353-4ACF-8181-70A8557FCEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{025961A1-A353-4ACF-8181-70A8557FCEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{025961A1-A353-4ACF-8181-70A8557FCEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE878E97-88C2-4D2C-BC45-9E98C108625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE878E97-88C2-4D2C-BC45-9E98C108625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE878E97-88C2-4D2C-BC45-9E98C108625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE878E97-88C2-4D2C-BC45-9E98C108625C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
