@@ -46,6 +46,14 @@ namespace SharedLibrary.GeneralUse.MySqlTool
                 DataReader = Command.ExecuteReader();
             }
         }
+
+
+        public void ReadFromRaw(string Raw)
+        {
+            Command = new MySqlCommand(Raw, Connection);
+            DataReader = Command.ExecuteReader();
+        }
+
     }
 
 
