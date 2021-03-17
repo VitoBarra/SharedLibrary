@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace MVVM.ViewModels
+namespace WPF.MVVM
 {
     public class RelayCommand : ICommand  // server per seprare la view dagli eventi click
     {

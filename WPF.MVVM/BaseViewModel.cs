@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Windows;
 
-namespace MVVM.ViewModels
+namespace WPF.MVVM
 {
     public class BaseViewModel : INotifyPropertyChanged// notificare il cambiamento dei dati
     {
