@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helper.Dictionary", "Helper
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO.JsonFile", "IO.JsonFile\IO.JsonFile.csproj", "{A1E6824F-AEBD-4513-97F6-14354CFB02CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.MVVM", "WPF.MVVM\WPF.MVVM.csproj", "{38F92A8A-802D-4D33-A720-1A8A81209E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.MVVM", "WPF.MVVM\WPF.MVVM.csproj", "{38F92A8A-802D-4D33-A720-1A8A81209E93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB.MongoHelper", "DB.MongoHelper\DB.MongoHelper.csproj", "{D72F0D67-8415-478B-A9DD-1B76910726ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{38F92A8A-802D-4D33-A720-1A8A81209E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38F92A8A-802D-4D33-A720-1A8A81209E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38F92A8A-802D-4D33-A720-1A8A81209E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72F0D67-8415-478B-A9DD-1B76910726ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72F0D67-8415-478B-A9DD-1B76910726ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72F0D67-8415-478B-A9DD-1B76910726ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72F0D67-8415-478B-A9DD-1B76910726ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
